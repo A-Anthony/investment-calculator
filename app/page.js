@@ -1,4 +1,4 @@
-import InvestmentCalculator from '../components/InvestmentCalculator'
+import InvestmentCalculator from './components/InvestmentCalculator'
 
 export default function Home() {
   return (
